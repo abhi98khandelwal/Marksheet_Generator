@@ -18,7 +18,8 @@ Fourth module displays the top ten students of a class with their aggregate perc
 Last but not the least part, displays the students of a class eligible for Scholar Badge(above 90% in each subject).
 
 
-___________________________________About the Program____________________________
+.___________________________________About the Program____________________________.
+
 This program takes entry for class 11 and 12 students only.
 
 Every new entry entered gets stored in their respective folders (if the entry is of class 12 student, the entry get saved to a txt file Record.txt in class_12 folder.)
