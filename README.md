@@ -1,4 +1,5 @@
-# Marksheet_Generator
+# Marksheet_Generator 
+# Easiest Way to Generate Marksheet for class 11 and class 12 students
 Python program for generating a report card.
 
 INTRODUCTION TO PROJECT 
